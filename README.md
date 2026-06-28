@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me & Current Focus
-* 🎒 **Competitive Programming:** Currently a newbie on Codeforces with an **800+ rating** (Handle: [@yashasvithakur2005](https://codeforces.com/profile/yashasvithakur2005)).
+* 🎒 **Competitive Programming:** Currently a newbie on Codeforces with an **1000+ rating** (Handle: [@yashasvithakur2005](https://codeforces.com/profile/yashasvithakur2005)).
 * 🛠️ **Current Learning & Interests:** 
   * Advanced C++
   * Artificial Intelligence & Machine Learning (AI/ML)
