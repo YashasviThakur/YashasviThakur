@@ -33,7 +33,7 @@
 ### 🥇 Past Achievements
 * **Round 2 Qualifier** | *The Economic Times AI Hackathon*
 * **Winner (Build in Public) & Top 50** | *WeMakeDevs - Pirates of the Coral Sea Hackathon*
-* **Rank 107 out of 423 Teams** | *USAII* (Competed with **Team Bihar Before Code** in Round 2).
+* **Rank 107 out of 423 Teams qualified for round 2** | *USAII* (Competed with **Team Bihar Before Code** in Round 2).
 * **Rank 3** | *Samsung AI Treasure Hunt*
 
 ---
