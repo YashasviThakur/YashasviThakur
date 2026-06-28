@@ -11,6 +11,9 @@
   * Artificial Intelligence & Machine Learning (AI/ML)
   * Agentic AI systems
   * iOS Development (IBM)
+* 🧰 **Tools & Workflows I Use:**
+  * **AI Engineering:** Experienced working with **Claude Code** and **Antigravity** for building intelligent workflows.
+  * **Design & UI:** Leveraging **Figma** and **Claude Design** to wireframe and build clean developer interfaces.
 
 ---
 
