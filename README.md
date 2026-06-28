@@ -23,14 +23,15 @@
 ---
 
 ### 🏆 Current Hackathons & Active Building
+* **The Economic Times AI Hackathon (Round 2):** Developing **Praman**—a specialized tool engineered to eliminate examination paper leaks and enforce transparency in testing systems.
 * **AMD Hackathon (Act 2):** Building a high-efficiency solution for *Track 1: Token Optimizer*.
 * **AWS x Vercel AI Hackathon:** Deploying and scaling **imprint** utilizing optimized cloud and edge architectures.
 * **WeMakeDevs x Cognee Hackathon:** Integrating **imprint** with Cognee Cloud for advanced cognitive memory structuring.
-* **The Economic Times AI Hackathon (Round 2):** Developing **Praman**—a specialized tool engineered to eliminate examination paper leaks and enforce transparency in testing systems.
 
 ---
 
 ### 🥇 Past Achievements
+* **Round 2 Qualifier** | *The Economic Times AI Hackathon*
 * **Winner (Build in Public) & Top 50** | *WeMakeDevs - Pirates of the Coral Sea Hackathon*
 * **Rank 107 out of 423 Teams** | *USAII* (Competed with **Team Bihar Before Code** in Round 2).
 * **Rank 3** | *Samsung AI Treasure Hunt*
