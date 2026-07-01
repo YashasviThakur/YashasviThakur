@@ -35,8 +35,8 @@
 
 ### 🥇 Past Achievements
 * **Round 2 Qualifier** | *The Economic Times AI Hackathon*
-* **Winner (Build in Public) & Top 50** | *WeMakeDevs - Pirates of the Coral bean Hackathon*
-* **Rank 107 out of 423 Teams qualified for round 2** | *USAII* (Competed with **Team Bihar Before Code** in Round 2).
+* **Winner (Build in Public) & Top 50** | *WeMakeDevs - Pirates of the Coral bean Hackathon* — [Certificate](certificates/pirates-of-coral-bean-hackathon.pdf)
+* **Finalist** | *USAII AI Hackathon* (Competed with **Team Bihar Before Code**) — [Certificate](certificates/usaii-ai-hackathon-2026-finalist.png)
 * **Rank 3** | *Samsung AI Treasure Hunt*
 
 ---
