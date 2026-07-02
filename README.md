@@ -45,3 +45,22 @@
 * **Email (Personal):** [yashasvithakur2005@gmail.com](mailto:yashasvithakur2005@gmail.com)
 * **Email (Work):** [yashasvithakuratwork@gmail.com](mailto:yashasvithakuratwork@gmail.com)
 * **X / Twitter:** [@_iamyt_](https://x.com/_iamyt_)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashasviThakur&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YashasviThakur&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashasviThakur&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+### 🏆 Codeforces
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=yashasvithakur2005&theme=dark" />
+</p>
