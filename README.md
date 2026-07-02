@@ -19,6 +19,12 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=yashasvithakur2005&theme=dark" />
 </p>
 
+### 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yashasvithakur2005?theme=dark&font=Baloo%202&ext=heatmap" />
+</p>
+
 ---
 
 ### 🚀 About Me & Current Focus
